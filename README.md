@@ -12,3 +12,17 @@ A basic Intrusion Detection System (IDS) implemented using suricata with additio
 🛠️ Extensible for new rules and models
 
 # Installation
+🔽 Download the Rule File
+```
+wget https://github.com/kr-anish/IDS/raw/main/anish.rules
+```
+Download Suricata
+```
+sudo apt install suricata
+suricata --version
+```
+
+✅ Change the File location
+```
+sudo mv ~/Downloads/anish.rules /etc/suricata
+```
