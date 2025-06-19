@@ -1,1 +1,0 @@
-alert icmp any any -> $HOME_NET any (msg:"ICMP PIng"; sid:1; rev:1;)
