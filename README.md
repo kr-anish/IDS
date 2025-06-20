@@ -45,5 +45,18 @@ Check status
 ```
 sudo systemctl status suricata
 ```
+![Image](https://github.com/user-attachments/assets/f1733e94-c8ee-4891-ad6c-1ba178dafdf2)
+
+# Attack
+
+Ping
+```
+ping <ip>
+```
+Port scanning
+```
+nmap <ip>
+```
+
 
 
