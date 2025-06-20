@@ -1,4 +1,4 @@
-# IDS(Intrusion Detection System)
+# IDS(Intrusion Detection System) ruleset
 A basic Intrusion Detection System (IDS) implemented using suricata with additional ruleset that monitors network traffic for suspicious activity and potential threats, alerting users in real-time.
 
 # Features
