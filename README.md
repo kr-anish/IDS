@@ -71,6 +71,6 @@ JSON logs
 ```
 sudo tail -f /var/log/suricata/eve.json | jq 'select(.event_type=="alert")'
 ```
-
+![Image](https://github.com/user-attachments/assets/fda3d293-9533-491f-bd7f-61c3c8f8300c)
 
 
