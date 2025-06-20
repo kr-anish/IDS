@@ -30,4 +30,6 @@ Update the file location in suricata.yaml under rule-files
 ```
 sudo gedit /etc/suricata/suricata.yaml
 ```
+![Image](https://github.com/user-attachments/assets/8303ecfa-6da3-4dc0-b84e-71aff24ac9d2)
+
 
