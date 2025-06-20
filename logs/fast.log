@@ -1,0 +1,163 @@
+06/20/2025-03:40:21.647757  [**] [1:1:1] ICMP PIng [**] [Classification: (null)] [Priority: 3] {ICMP} 192.168.184.2:3 -> 192.168.184.131:1
+06/20/2025-03:40:22.249628  [**] [1:1:1] ICMP PIng [**] [Classification: (null)] [Priority: 3] {ICMP} 192.168.184.2:3 -> 192.168.184.131:7
+06/20/2025-03:40:22.249629  [**] [1:1:1] ICMP PIng [**] [Classification: (null)] [Priority: 3] {ICMP} 192.168.184.2:3 -> 192.168.184.131:7
+06/20/2025-03:40:22.262180  [**] [1:1:1] ICMP PIng [**] [Classification: (null)] [Priority: 3] {ICMP} 192.168.184.2:3 -> 192.168.184.131:7
+06/20/2025-03:40:22.734289  [**] [1:1:1] ICMP PIng [**] [Classification: (null)] [Priority: 3] {ICMP} 192.168.184.2:3 -> 192.168.184.131:7
+06/20/2025-03:40:22.735068  [**] [1:1:1] ICMP PIng [**] [Classification: (null)] [Priority: 3] {ICMP} 192.168.184.2:3 -> 192.168.184.131:7
+06/20/2025-03:40:22.735068  [**] [1:1:1] ICMP PIng [**] [Classification: (null)] [Priority: 3] {ICMP} 192.168.184.2:3 -> 192.168.184.131:1
+06/20/2025-03:40:22.739201  [**] [1:1:1] ICMP PIng [**] [Classification: (null)] [Priority: 3] {ICMP} 192.168.184.2:3 -> 192.168.184.131:7
+06/20/2025-03:40:23.320697  [**] [1:1:1] ICMP PIng [**] [Classification: (null)] [Priority: 3] {ICMP} 192.168.184.2:3 -> 192.168.184.131:7
+06/20/2025-07:19:37.705861  [**] [1:1:1] ICMP PIng [**] [Classification: (null)] [Priority: 3] {ICMP} 192.168.184.2:3 -> 192.168.184.131:0
+06/20/2025-07:19:37.851189  [**] [1:1:1] ICMP PIng [**] [Classification: (null)] [Priority: 3] {ICMP} 192.168.184.2:3 -> 192.168.184.131:7
+06/20/2025-07:19:37.856333  [**] [1:1:1] ICMP PIng [**] [Classification: (null)] [Priority: 3] {ICMP} 192.168.184.2:3 -> 192.168.184.131:7
+06/20/2025-07:19:37.869038  [**] [1:1:1] ICMP PIng [**] [Classification: (null)] [Priority: 3] {ICMP} 192.168.184.2:3 -> 192.168.184.131:7
+06/20/2025-07:19:37.871136  [**] [1:1:1] ICMP PIng [**] [Classification: (null)] [Priority: 3] {ICMP} 192.168.184.2:3 -> 192.168.184.131:7
+06/20/2025-07:19:37.884924  [**] [1:1:1] ICMP PIng [**] [Classification: (null)] [Priority: 3] {ICMP} 192.168.184.2:3 -> 192.168.184.131:7
+06/20/2025-10:43:00.210908  [**] [1:1:1] ICMP PIng [**] [Classification: (null)] [Priority: 3] {ICMP} 192.168.184.2:3 -> 192.168.184.131:7
+06/20/2025-10:43:00.210908  [**] [1:1:1] ICMP PIng [**] [Classification: (null)] [Priority: 3] {ICMP} 192.168.184.2:3 -> 192.168.184.131:1
+06/20/2025-10:43:00.210908  [**] [1:1:1] ICMP PIng [**] [Classification: (null)] [Priority: 3] {ICMP} 192.168.184.2:3 -> 192.168.184.131:1
+06/20/2025-10:55:31.469922  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+06/20/2025-10:55:55.582999  [**] [1:1:1] ICMP PIng [**] [Classification: (null)] [Priority: 3] {ICMP} 192.168.184.2:3 -> 192.168.184.131:7
+06/20/2025-11:02:27.075268  [**] [1:1:1] ICMP PIng [**] [Classification: (null)] [Priority: 3] {ICMP} 192.168.184.128:8 -> 192.168.184.131:0
+06/20/2025-11:02:27.075865  [**] [1:1:1] ICMP PIng [**] [Classification: (null)] [Priority: 3] {ICMP} 192.168.184.131:0 -> 192.168.184.128:0
+06/20/2025-11:08:02.461931  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:1106
+06/20/2025-11:08:02.463429  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:2038
+06/20/2025-11:08:02.463423  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:12174
+06/20/2025-11:08:02.465195  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:3517
+06/20/2025-11:08:02.465341  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:13
+06/20/2025-11:08:02.465346  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:2040
+06/20/2025-11:08:02.465347  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:16080
+06/20/2025-11:08:02.466778  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:3071
+06/20/2025-11:08:02.467323  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:64680
+06/20/2025-11:08:02.467602  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:1972
+06/20/2025-11:08:02.467754  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:3001
+06/20/2025-11:08:02.467929  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:32
+06/20/2025-11:08:02.467933  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:10616
+06/20/2025-11:08:02.468125  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:99
+06/20/2025-11:08:02.468929  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:3260
+06/20/2025-11:08:02.469594  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:2717
+06/20/2025-11:08:02.470051  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:1114
+06/20/2025-11:08:02.470150  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:6668
+06/20/2025-11:08:02.469590  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:6101
+06/20/2025-11:08:02.470050  [**] [1:3400001:1] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:8443
+06/20/2025-11:08:02.470054  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:2033
+06/20/2025-11:08:02.470242  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:7938
+06/20/2025-11:08:02.470779  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:2710
+06/20/2025-11:08:02.471172  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:5903
+06/20/2025-11:08:02.471563  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:1185
+06/20/2025-11:08:02.471651  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:9618
+06/20/2025-11:08:02.471825  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:1121
+06/20/2025-11:08:02.471731  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:1001
+06/20/2025-11:08:02.471823  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:4567
+06/20/2025-11:08:02.472471  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:1839
+06/20/2025-11:08:02.472929  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:3971
+06/20/2025-11:08:02.473446  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:2601
+06/20/2025-11:08:02.473569  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:5269
+06/20/2025-11:08:02.473574  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:2170
+06/20/2025-11:08:02.473832  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:2522
+06/20/2025-11:08:02.473835  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:2007
+06/20/2025-11:08:02.474766  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:9111
+06/20/2025-11:08:02.475147  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:3889
+06/20/2025-11:08:02.475420  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:44443
+06/20/2025-11:08:02.475426  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:1600
+06/20/2025-11:08:02.475634  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:32768
+06/20/2025-11:08:02.475541  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:9502
+06/20/2025-11:08:02.475631  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:34572
+06/20/2025-11:08:02.476149  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:616
+06/20/2025-11:08:02.476537  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:1000
+06/20/2025-11:08:02.476914  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:1500
+06/20/2025-11:08:02.477194  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:1068
+06/20/2025-11:08:02.477380  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:1455
+06/20/2025-11:08:02.477188  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:1165
+06/20/2025-11:08:02.477282  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:1078
+06/20/2025-11:08:02.477804  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:1124
+06/20/2025-11:08:02.477841  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:1322
+06/20/2025-11:08:02.478522  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:5679
+06/20/2025-11:08:02.478859  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:3690
+06/20/2025-11:08:02.478999  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:3995
+06/20/2025-11:08:02.479186  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:9485
+06/20/2025-11:08:02.479342  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:2191
+06/20/2025-11:08:02.483676  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:1192
+06/20/2025-11:08:02.483691  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:5910
+06/20/2025-11:08:02.484029  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:5633
+06/20/2025-11:08:02.484451  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:6502
+06/20/2025-11:08:02.484455  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:8654
+06/20/2025-11:08:02.484569  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:416
+06/20/2025-11:08:02.484734  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:1044
+06/20/2025-11:08:02.487353  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:6001
+06/20/2025-11:08:02.487494  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:2045
+06/20/2025-11:08:02.487853  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:2107
+06/20/2025-11:08:02.488163  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:3371
+06/20/2025-11:08:02.488276  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:7025
+06/20/2025-11:08:02.488368  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:61900
+06/20/2025-11:08:02.488554  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:1097
+06/20/2025-11:08:02.491214  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:49161
+06/20/2025-11:08:02.492027  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:720
+06/20/2025-11:08:02.492025  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:1038
+06/20/2025-11:08:02.492636  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:9594
+06/20/2025-11:08:02.492912  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:2200
+06/20/2025-11:08:02.493210  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:35500
+06/20/2025-11:08:02.493108  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:55055
+06/20/2025-11:08:02.495923  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:24
+06/20/2025-11:08:02.496726  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:1023
+06/20/2025-11:08:02.497263  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:1064
+06/20/2025-11:08:02.497299  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:5963
+06/20/2025-11:08:02.497720  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:1021
+06/20/2025-11:08:02.498018  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:2875
+06/20/2025-11:08:02.498022  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:2006
+06/20/2025-11:08:02.501421  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:9415
+06/20/2025-11:08:02.501944  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:1108
+06/20/2025-11:08:02.502601  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:5009
+06/20/2025-11:08:02.501357  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:1501
+06/20/2025-11:08:02.501682  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:4126
+06/20/2025-11:08:02.501944  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:1641
+06/20/2025-11:08:02.502599  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:7435
+06/20/2025-11:08:02.504978  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:2000
+06/20/2025-11:08:02.505284  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:541
+06/20/2025-11:08:02.505557  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:32773
+06/20/2025-11:08:02.505688  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:3333
+06/20/2025-11:08:02.506104  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:406
+06/20/2025-11:08:02.506435  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:1092
+06/20/2025-11:08:02.506633  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:3404
+06/20/2025-11:08:02.506723  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:7000
+06/20/2025-11:08:02.509566  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:3367
+06/20/2025-11:08:02.509841  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:2135
+06/20/2025-11:08:02.510179  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:3283
+06/20/2025-11:08:02.510413  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:5405
+06/20/2025-11:08:02.510574  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:3324
+06/20/2025-11:08:02.510711  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:1131
+06/20/2025-11:08:02.510717  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:705
+06/20/2025-11:08:02.511607  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:10001
+06/20/2025-11:08:02.511632  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:81
+06/20/2025-11:08:02.511901  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:7920
+06/20/2025-11:08:02.512321  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:6123
+06/20/2025-11:08:02.512590  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:1048
+06/20/2025-11:08:02.512746  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:20000
+06/20/2025-11:08:02.512866  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:2604
+06/20/2025-11:08:02.513304  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:3372
+06/20/2025-11:08:02.513928  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:1721
+06/20/2025-11:08:02.514246  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:3168
+06/20/2025-11:08:02.514248  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:1050
+06/20/2025-11:08:02.514654  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:3800
+06/20/2025-11:08:02.514929  [**] [1:3400020:2] POSSBL SCAN SHELL M-SPLOIT TCP [**] [Classification: A Network Trojan was detected] [Priority: 1] {TCP} 192.168.184.128:34541 -> 192.168.184.131:4444
+06/20/2025-11:08:02.514929  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:4444
+06/20/2025-11:08:02.515044  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:5087
+06/20/2025-11:08:02.515621  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:16993
+06/20/2025-11:08:02.516129  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:10215
+06/20/2025-11:08:02.516488  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:444
+06/20/2025-11:08:02.516494  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:2021
+06/20/2025-11:08:02.517024  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:5190
+06/20/2025-11:08:02.517470  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:691
+06/20/2025-11:08:02.518853  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:4550
+06/20/2025-11:08:02.519385  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:10180
+06/20/2025-11:08:02.519609  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:3703
+06/20/2025-11:08:02.519607  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:18040
+06/20/2025-11:08:02.519824  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:44176
+06/20/2025-11:08:02.520071  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:1999
+06/20/2025-11:08:02.520002  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:8652
+06/20/2025-11:08:02.520003  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:4242
+06/20/2025-11:08:02.520745  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:1059
+06/20/2025-11:08:02.521238  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:1033
+06/20/2025-11:08:02.521240  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:3871
+06/20/2025-11:08:02.521321  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:5033
+06/20/2025-11:08:02.521397  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 192.168.184.128:34541 -> 192.168.184.131:1105

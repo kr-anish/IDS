@@ -1,0 +1,4755 @@
+{
+  "timestamp": "2025-06-20T12:45:26.604486+0530",
+  "flow_id": 1751826799732294,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 113,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:1hRmWlgMf4RDpNmUcb/DlWHcXM0=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.604486+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 113
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.605374+0530",
+  "flow_id": 1755638703571328,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 4446,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:XfDyBfl2Kz5QG4gcDIEGq09Jsls=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.605374+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 4446
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.606342+0530",
+  "flow_id": 1759794437433207,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 1688,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:IEx8i06yFBsTZ/pMThE4Ozvc+9A=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.606342+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 1688
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.606760+0530",
+  "flow_id": 1761590523981134,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 5666,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:ESZ2qInT2vhZMVNXH6l6zAQqhP8=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.606760+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 5666
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.607533+0530",
+  "flow_id": 1764910143902110,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 6101,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:MeGoukof+2X8WmIuedbnNL+2JfY=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.607533+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 6101
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.607533+0530",
+  "flow_id": 1764912964357899,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 5004,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:JPEYE5B92qXz0IZAjcPnljngPC0=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.607533+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 5004
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.607935+0530",
+  "flow_id": 1766640272381317,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 3527,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:3RDuxUwXgN1JyhgyLWysxatixzI=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.607935+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 3527
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.608827+0530",
+  "flow_id": 1770467641059647,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 8087,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:EiRHmQ3h+n3WIjA6tb6WEDFmeBM=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.608827+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 8087
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.609542+0530",
+  "flow_id": 1773538069182298,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 50002,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:ZPltHuKT2s+YGq/vwXGhxssCT40=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.609542+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 50002
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.610467+0530",
+  "flow_id": 1777514865187319,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 1234,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:6CanoUr5Jxw+DhBPQ12Ndq2GaVY=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.610467+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 1234
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.611197+0530",
+  "flow_id": 1780646591792706,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 1089,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:Eq7MpCgRSLjDrqpxfIm9J8MRjIE=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.611197+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 1089
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.610682+0530",
+  "flow_id": 1778438324604812,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 6666,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:ySpUmKCXf7EPLMN5g0Oc/iQU8Tw=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.610682+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 6666
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.611542+0530",
+  "flow_id": 1782131736612323,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 13722,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:6IZ6eOPrSuaV1uvjetIr5FWGkc8=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.611542+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 13722
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.612558+0530",
+  "flow_id": 1786495115648906,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 3703,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:BULLvKSQXnlx6qn89RDuK3yCygA=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.612558+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 3703
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.613288+0530",
+  "flow_id": 1789630168100626,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 49165,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:+wghnEl0959905VYKEn5JPERk+8=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.613288+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 49165
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.614589+0530",
+  "flow_id": 1795216062582241,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 9091,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:8fGCveJA6OW9tyMlFw1jsZPcGb8=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.614589+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 9091
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.615405+0530",
+  "flow_id": 1798722452856746,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 49156,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:WZ9SM4ztmxSdSLSuZf8je+UGF5g=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.615405+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 49156
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.615516+0530",
+  "flow_id": 1799197337491290,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 5432,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:irU2eLL6WhepMbNLTg5nkWijmw4=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.615516+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 5432
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.614589+0530",
+  "flow_id": 1795215134749948,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 2602,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:M9Qfel7NhnxACjOuDqTNFEXZkRs=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.614589+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 2602
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.615606+0530",
+  "flow_id": 1799586165073461,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 15000,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:28Y7I/VEferiRm1/13pVcYWE0kM=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.615606+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 15000
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.616971+0530",
+  "flow_id": 1805449526663859,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 2500,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:QUgbxrnssyFpKujQ+RtqzcKng+M=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.616971+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 2500
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.617987+0530",
+  "flow_id": 1809810597024457,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 65000,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:+85EeRtxuSnrLfcG/cRGY+Wm+PM=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.617987+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 65000
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.618664+0530",
+  "flow_id": 1812718721129405,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 543,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:SA2iB5yBfdePZCBbEKWTVYmMIE8=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.618664+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 543
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.619320+0530",
+  "flow_id": 1815535725414415,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 88,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:Day17VAQr/YadEE7pdPqsNmJ4vM=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400001,
+    "rev": 1,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.619320+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 88
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.619590+0530",
+  "flow_id": 1816696210729603,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 3030,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:oiNWH1Nry5+/FBnxyt3PTWYNJVQ=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.619590+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 3030
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.620434+0530",
+  "flow_id": 1820322551446046,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 3880,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:THEmYEIOc/M2SFHxTMXJJaDIx/o=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.620434+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 3880
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.617987+0530",
+  "flow_id": 1809810115515134,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 1036,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:NMsUB2NJWXT9mLGRQVba2IXM7YE=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.617987+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 1036
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.618664+0530",
+  "flow_id": 1812720385722991,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 7999,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:wwbrb30g117QrmjXp7izPdvyFRI=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.618664+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 7999
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.619590+0530",
+  "flow_id": 1816694833033007,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 5214,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:Egd9J6/Cse3GCEmlMptQqfyOZno=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.619590+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 5214
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.623110+0530",
+  "flow_id": 1831813140841633,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 49175,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:Km47O4aOC6prX5k5nGmq7V4CrNc=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.623110+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 49175
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.623516+0530",
+  "flow_id": 1833559633294145,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 6667,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:gM3IGXCBD9nP5kRSbUxwYEQPCTk=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.623516+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 6667
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.624646+0530",
+  "flow_id": 1838410263475422,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 9081,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:qKyHB1kTrRYRyKKvThl0a9BOvBk=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.624646+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 9081
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.625138+0530",
+  "flow_id": 1840523894891777,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 27352,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:nTYvXMWhVsf/g/APA8wD8GcxV8Q=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.625138+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 27352
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.625138+0530",
+  "flow_id": 1840524815896872,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 5225,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:YD6zE/WKSysLUgy9XqoP7Q+vHak=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.625138+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 5225
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.626007+0530",
+  "flow_id": 1844256809248099,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 999,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:rNg7l4c5nM1j1BnawmZ5Og3NYsQ=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.626007+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 999
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.626007+0530",
+  "flow_id": 1844255937170172,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 5859,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:sNcmOyNzPrCIfJJm73pl4Aw0evo=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.626007+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 5859
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.626865+0530",
+  "flow_id": 1847941107885369,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 19801,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:vSV0Mz7TFh5FtMrHhzimSoSpCNM=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.626865+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 19801
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.626756+0530",
+  "flow_id": 1847473028882797,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 49155,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:OCGlKrC1haNDTviXfC+gcz9ORek=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.626756+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 49155
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.627303+0530",
+  "flow_id": 1849821271308813,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 20828,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:uTRQd1fRMBpWCOHxvtWv+7OjQ18=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.627303+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 20828
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.627922+0530",
+  "flow_id": 1852480352072058,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 873,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:jDUkHJwzzSDeXC0EZ1EtZBrVapU=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.627922+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 873
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.628553+0530",
+  "flow_id": 1855191861054661,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 8654,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:snATJn/wP/Yig/iXuOg2FZpRpdk=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.628553+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 8654
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.627788+0530",
+  "flow_id": 1851906606366974,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 2604,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:DSw+IzkB8NPZ3P/arz/ftGQNKBQ=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.627788+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 2604
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.628260+0530",
+  "flow_id": 1853935141485941,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 1839,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:kBEQ75H/sETD/iklSWnH/OL2egw=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.628260+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 1839
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.631224+0530",
+  "flow_id": 1866662403106942,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 44176,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:FMEcTwH2UChB3GjqbVfrZWXPQ9Y=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.631224+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 44176
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.631224+0530",
+  "flow_id": 1866664206400528,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 9575,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:fdNq/0f8TvY0/FagqwjdScdmG+o=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.631224+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 9575
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.631627+0530",
+  "flow_id": 1868396251609197,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 79,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:AQOVx1yT9GSSvrANtsqu7nZONrw=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.631627+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 79
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.633030+0530",
+  "flow_id": 1874420526156048,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 9090,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:CtbaP5DTbEojftqKaIVO2d5TVm0=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.633030+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 9090
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.634032+0530",
+  "flow_id": 1878722215107828,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 2013,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:Hkyu+FgMt1LcajgSJRtCLC6sQa4=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.634032+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 2013
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.632572+0530",
+  "flow_id": 1872452397538708,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 38292,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:Eo/fTaFw0n5q/bBkqpSczNLsJ4A=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.632572+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 38292
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.633406+0530",
+  "flow_id": 1876037042200203,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 2718,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:v7CHa5iUudKm/bgyAk6QnVI9QJw=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.633406+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 2718
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.634385+0530",
+  "flow_id": 1880240858412380,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 2557,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:rIzsX+qEtQfYd+tQpoaQZm2JVrs=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.634385+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 2557
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.634974+0530",
+  "flow_id": 1882770137014752,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 1213,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:I+kkz3Uwq69BUl1yYjHTepNvFmY=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.634974+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 1213
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.634728+0530",
+  "flow_id": 1881715009784018,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 3005,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:sNGUhF5SjlJDqdOoBI/1gs/D84I=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.634728+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 3005
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.635165+0530",
+  "flow_id": 1883591446895133,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 9290,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:/t7WK2+UL2THXw/UVyOVG2k6WZw=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.635165+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 9290
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.636300+0530",
+  "flow_id": 1888466359237269,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 10002,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:md2+R/VKqS2ja1znV9W5s6lbbjI=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.636300+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 10002
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.635758+0530",
+  "flow_id": 1886136778194768,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 37,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:5cYd/seAoc5gJILg20PCt+Xe860=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.635758+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 37
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.636147+0530",
+  "flow_id": 1887809551578121,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 1038,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:wcLB+cXTFrslMhNO9ye2IfirRrE=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.636147+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 1038
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.636839+0530",
+  "flow_id": 1890779965325591,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 4005,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:7UiB+wElVizsgAbmvAWvS6dSKos=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.636839+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 4005
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.637983+0530",
+  "flow_id": 1895694650012023,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 10566,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:RRKI2RXFtNc3VVx/JMT54D7Fw1g=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.637983+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 10566
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.638241+0530",
+  "flow_id": 1896800297988901,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 1080,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:d0RU+ggZV+BeFNTaNo1xsxiMrsU=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.638241+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 1080
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.637983+0530",
+  "flow_id": 1895691450317313,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 60020,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:/lf+SI9wDZc6CpK74Vl7ado2GGw=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.637983+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 60020
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.638241+0530",
+  "flow_id": 1896800920926739,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 3737,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:eGGoeyeyD+lZ8TOdenT01Dg3Q2w=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.638241+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 3737
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.639288+0530",
+  "flow_id": 1901297980438388,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 222,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:bUwWMRVdReKDYqG2MVD7lDcDXDM=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.639288+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 222
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.638882+0530",
+  "flow_id": 1899553572876169,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 1130,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:lLpXwzt+SPKKil5ixHZqIpNvY40=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.638882+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 1130
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.639390+0530",
+  "flow_id": 1901737984022098,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 2717,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:jUUzzFmVirwcRsvSWmpIjWDRigw=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.639390+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 2717
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.639731+0530",
+  "flow_id": 1903199458620610,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 4899,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:UF6dZsy55ALTpeJIC09XV906dE8=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.639731+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 4899
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.640236+0530",
+  "flow_id": 1905371577446054,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 7200,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:FK4Yr1bzLWtmCcnfUTVfqHHMsNM=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.640236+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 7200
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.640754+0530",
+  "flow_id": 1907594156270080,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 1044,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:BfvHRr/lRdIueU2CGZyhSywWEjk=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.640754+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 1044
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.641371+0530",
+  "flow_id": 1910243283362512,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 56738,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:0i+AtC9GRGym8wa/WOeWSjZjuZ0=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.641371+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 56738
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.641919+0530",
+  "flow_id": 1912598082357623,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 667,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:Ym2PPjOAPm53cybzJbhps/NMW50=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.641919+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 667
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.642385+0530",
+  "flow_id": 1914601625896470,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 6839,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:kDf0pBSQu9AqUGrS6o9WYbi2BxQ=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.642385+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 6839
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.642869+0530",
+  "flow_id": 1916679069948798,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 49161,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:90CbA4hSM6xb/zDov4BTuVGmkns=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.642869+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 49161
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.643602+0530",
+  "flow_id": 1919827193456796,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 3801,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:NqdNObavph1d++VT45cEj7i1rxQ=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.643602+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 3801
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.644062+0530",
+  "flow_id": 1921801377839548,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 7103,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:EwI1HTCPfzxO8YGITQ9318rfXBQ=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.644062+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 7103
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.644062+0530",
+  "flow_id": 1921801220689809,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 1974,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:5PKoqyXsPgde9YFUjaZmafxrLi0=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.644062+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 1974
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.644382+0530",
+  "flow_id": 1923177252784729,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 2607,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:HvMlNVx4mROj20HLR9gWZOVS4tE=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.644382+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 2607
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.645132+0530",
+  "flow_id": 1926399812608273,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 2260,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:cSSwLNXLEqZQvI+JvyYgc3AJXik=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.645132+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 2260
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.645496+0530",
+  "flow_id": 1927961721039436,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 1148,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:32p92R8XJsfm+6iqcDEhUbsnZGY=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.645496+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 1148
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.645132+0530",
+  "flow_id": 1926399781309567,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 9500,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:xsfwnKXh3imOprt+C1Kq1c2eh+E=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.645132+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 9500
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.645940+0530",
+  "flow_id": 1929867531244336,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 4000,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:Q9M8MUv21fp3znekPa+IXg8ZbI8=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.645940+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 4000
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.646792+0530",
+  "flow_id": 1933526213585337,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 18040,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:B7v1lO28m5aFMKokqw9MsiIRD5c=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.646792+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 18040
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.647113+0530",
+  "flow_id": 1934904851338389,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 10626,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:5inan0cx4QNV1ySTcIZS+dC3eew=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.647113+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 10626
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.647969+0530",
+  "flow_id": 1938583337702598,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 30,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:QERPxKe8usjcOnMNFTfmp15VQBc=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.647969+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 30
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.647969+0530",
+  "flow_id": 1938583681505647,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 50800,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:n9KGHwu5rSHc2IAwve3iIZ+OsdA=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.647969+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 50800
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.648741+0530",
+  "flow_id": 1941897268138400,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 35500,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:MiC2I8A0pnP2vB7uhgwFO8qHn/4=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.648741+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 35500
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.649226+0530",
+  "flow_id": 1943983388509959,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 32775,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:tplkIVtw/kRZZAzqTVN33dQM8RQ=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.649226+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 32775
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.650370+0530",
+  "flow_id": 1948895950998546,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 31337,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:k0FXFRIjmfc1WxMb7VAc7F5+pyU=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.650370+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 31337
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.649874+0530",
+  "flow_id": 1946763593737850,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 5963,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:ucd7UN8UgDPskOnEc+pzwL+9wkM=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.649874+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 5963
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.650370+0530",
+  "flow_id": 1948895152524060,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 4444,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:rCTn1YDXTnCJj5IJBxRg+U7Dpig=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400020,
+    "rev": 2,
+    "signature": "POSSBL SCAN SHELL M-SPLOIT TCP",
+    "category": "A Network Trojan was detected",
+    "severity": 1
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.650370+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 4444
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.650642+0530",
+  "flow_id": 1950062777220825,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 1052,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:8h+ZHsyFYEXpvhlq9jfYfInq3ko=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.650642+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 1052
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.651620+0530",
+  "flow_id": 1954263500768743,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 2301,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:/NxZlgkeO2Z2IHalLP6QrfP1QWY=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.651620+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 2301
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.651914+0530",
+  "flow_id": 1955527494639732,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 1322,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:OxG9WhGPJxibk3XkiS8iAaEPUVA=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.651914+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 1322
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.651620+0530",
+  "flow_id": 1954264823509336,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 125,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:jseeJOIuHXIU7cKTaE2ja0XCq40=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.651620+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 125
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.652205+0530",
+  "flow_id": 1956774785324303,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 3211,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:TibfnfWs/2wuCk6jhcDXTS2uKW0=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.652205+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 3211
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.652970+0530",
+  "flow_id": 1960062948224634,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 1152,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:dCwCnQoja4VuJTXrQK8Vp88wM6o=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.652970+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 1152
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.654173+0530",
+  "flow_id": 1965229211563085,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 631,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:nZhztHHdPjaSJ4wfEPvvXYBecMs=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.654173+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 631
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.654848+0530",
+  "flow_id": 1968129458753596,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 146,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:1jA+iJr5e4eNX42U62YaflpNOlg=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.654848+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 146
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.653524+0530",
+  "flow_id": 1962439783646355,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 5226,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:Kzu3ah8zMQmQWCQeKcGFRE/ixZk=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.653524+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 5226
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.654173+0530",
+  "flow_id": 1965227664734727,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 987,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:jIMRH/nd0tzCjWrUJ6r5nJX1aUI=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.654173+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 987
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.656671+0530",
+  "flow_id": 1694484377221013,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 11111,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:+HBrN6wkMV0pEiDLw631nirgjhg=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.656671+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 11111
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.658348+0530",
+  "flow_id": 1701685496605064,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 8500,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:RigcyyHd+vGrQ4AT7ysz8kIMU8A=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.658348+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 8500
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.658425+0530",
+  "flow_id": 1702015079140605,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 52673,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:9186bxe86n/NaMNES3WsrcBlZdU=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.658425+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 52673
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.654448+0530",
+  "flow_id": 1966411967723489,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 1556,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:gFd2rmMXxfKS5UEztpXuoCyYJgo=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.654448+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 1556
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.654448+0530",
+  "flow_id": 1966408761998844,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 3918,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:cZH8/g4OLRnRjDOz9Wwh2d1Lx1Y=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.654448+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 3918
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.655622+0530",
+  "flow_id": 1689978305932705,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 5988,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:od8I7Stt/uUq7DNVoeCzUpqh70E=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.655622+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 5988
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.656671+0530",
+  "flow_id": 1694481059567451,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 5431,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:d197gI1JIDTkG0q6qdJSCBYA+ZA=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.656671+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 5431
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.657776+0530",
+  "flow_id": 1699227005627082,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 32774,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:tZREQgaDmwfBInufwB7lem+BJts=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.657776+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 32774
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.658425+0530",
+  "flow_id": 1702015843182721,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 1081,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:+hfJ6bw5kA03wHDs2H89SZI2xno=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.658425+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 1081
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.660023+0530",
+  "flow_id": 1708879379696456,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 2366,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:cf6hLNnSLK3IM8cOvoHn+IQm/bk=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.660023+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 2366
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.660397+0530",
+  "flow_id": 1710487664815849,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 1145,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:VdCyfueckXaf2ZmUlYXhhXCmJCM=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.660397+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 1145
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.660680+0530",
+  "flow_id": 1711702289490887,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 33354,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:rYGFcBmgKERpkMZ4HfnJNLHpK5Y=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.660680+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 33354
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.661538+0530",
+  "flow_id": 1715388177107708,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 5102,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:iiAW4xbJxzJlJY2zmXv+8G1sufE=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.661538+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 5102
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.660023+0530",
+  "flow_id": 1708877644007918,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 1042,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:bDW+N6JSCeURul9si0t70Csu2YQ=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.660023+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 1042
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.660939+0530",
+  "flow_id": 1712811753730491,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 10629,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:wX20dMcMeWhqBnnZSb6InVDspRI=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.660939+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 10629
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.661863+0530",
+  "flow_id": 1716783240920353,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 1092,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:QHhHN8Jfp5Xh2yRmkR1nvxX9nNU=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.661863+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 1092
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.662827+0530",
+  "flow_id": 1720922547646578,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 5815,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:S4VIf7AK245HCWg6KUc84jUj1+g=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.662827+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 5815
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.663401+0530",
+  "flow_id": 1723387347238322,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 6123,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:4q1f+vi8WdWal4iAAdxgiwhGeGs=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.663401+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 6123
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.662827+0530",
+  "flow_id": 1720924314698073,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 8400,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:Zs6/mYcjQnSYE5xLR5FIlZVlgoA=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.662827+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 8400
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.662977+0530",
+  "flow_id": 1721568147475569,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 1121,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:K0DV6MnmX9kI6HMyzDKlRX5K1W4=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.662977+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 1121
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.663897+0530",
+  "flow_id": 1725516142058455,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 2135,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:Y+4R7OOWFSq3tOJSQpE5x6W4trM=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.663897+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 2135
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.663760+0530",
+  "flow_id": 1724929744176348,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 5825,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:DKarAdv/HTc1Jdk3wDD+YOUae9I=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.663760+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 5825
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.663760+0530",
+  "flow_id": 1724929335309973,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 6389,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:9+GDXsvkeMmgXAUwC+B1mZwlaxo=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.663760+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 6389
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.665087+0530",
+  "flow_id": 1730630275258267,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 1061,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:bwZuvYtCYGj8V4A6O6d4grCQdaE=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.665087+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 1061
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.665782+0530",
+  "flow_id": 1733612441794845,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 7921,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:AU5v/pSVdMfYP8OyCEyUzPrvmmw=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.665782+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 7921
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.666145+0530",
+  "flow_id": 1735171393429584,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 648,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:v5YZsRPCqbI06ABl/QcTonCIdSk=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.666145+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 648
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.666694+0530",
+  "flow_id": 1737532559475183,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 1097,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:mCukVg8koK+KSUj6NLALFswsakU=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.666694+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 1097
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.665365+0530",
+  "flow_id": 1731823275956620,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 481,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:JlER/+8OFZEEegr+R6N5JcoD8p0=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.665365+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 481
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.665782+0530",
+  "flow_id": 1733615004722310,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 5904,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:Jeon6WGKwWge4/pw9x32t8msBPc=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.665782+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 5904
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.666484+0530",
+  "flow_id": 1736629335160358,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 3920,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:3jm8yJ2f6PBVleUs+8bI5hcif6I=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.666484+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 3920
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.667228+0530",
+  "flow_id": 1739824115466047,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 12174,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:YfhCaZS3f2FnswI3apgxQHLFUCI=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.667228+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 12174
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.667228+0530",
+  "flow_id": 1739825300791404,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 2020,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:kiuL47kKiVZfYYV1Xo28uG1Oacs=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.667228+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 2020
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.668137+0530",
+  "flow_id": 1743727746864740,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 7800,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:SKq0nAsKXAxWML1ET67A4MX8Xpw=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.668137+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 7800
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.668331+0530",
+  "flow_id": 1744561039547179,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 1233,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:FQ4tRBrhp9QN6EORZP31Lduw2fk=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.668331+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 1233
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.668915+0530",
+  "flow_id": 1747071280592252,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 17988,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:B/UCGjSm1CzHpAMhwcw4S/9OG0s=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.668915+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 17988
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.668734+0530",
+  "flow_id": 1746293429204679,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 8081,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:Kd1SI/SDwdMdvfdkEmPOywL4lz0=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.668734+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 8081
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.669437+0530",
+  "flow_id": 1749313947748313,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 9944,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:xwIGaB0//ItzaO+yIySYK9x3aoc=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.669437+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 9944
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.670034+0530",
+  "flow_id": 1751876463956367,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 2710,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:7OjI+MJlbo3uo8a6c3bP5iMIWOo=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.670034+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 2710
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.670342+0530",
+  "flow_id": 1753197817338804,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 2222,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:OW3ip2CU/95iAm/y2lxlWU23ykg=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.670342+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 2222
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.669823+0530",
+  "flow_id": 1750969589213138,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 7019,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:TXycZrm9UuxQgeyOgmsXUgY1mZg=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.669823+0530",
+    "src_ip": "192.168.184.128",
+    "dest_ip": "192.168.184.131",
+    "src_port": 52260,
+    "dest_port": 7019
+  }
+}
+{
+  "timestamp": "2025-06-20T12:45:26.670342+0530",
+  "flow_id": 1753198735213573,
+  "in_iface": "ens33",
+  "event_type": "alert",
+  "src_ip": "192.168.184.128",
+  "src_port": 52260,
+  "dest_ip": "192.168.184.131",
+  "dest_port": 16113,
+  "proto": "TCP",
+  "pkt_src": "wire/pcap",
+  "community_id": "1:LwLf+Jl7yopIWYzP2arcmHVz5V4=",
+  "alert": {
+    "action": "allowed",
+    "gid": 1,
+    "signature_id": 3400002,
+    "rev": 2,
+    "signature": "POSSBL PORT SCAN (NMAP -sS)",
+    "category": "Attempted Information Leak",
+    "severity": 2
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 1,
+    "pkts_toclient": 0,
+    "bytes_toserver": 60,
+    "bytes_toclient": 0,
+    "start": "2025-06-20T12:45:26.670342+0530",
+    "src_ip":
