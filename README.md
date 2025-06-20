@@ -57,6 +57,8 @@ Port scanning
 ```
 nmap <ip>
 ```
+![Image](https://github.com/user-attachments/assets/84d99e43-85bf-4102-a0dc-d51b06189d8d)
 
+# Logs
 
 
