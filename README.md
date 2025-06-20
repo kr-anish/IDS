@@ -26,3 +26,8 @@ suricata --version
 ```
 sudo mv ~/Downloads/anish.rules /etc/suricata
 ```
+Update the file location in suricata.yaml under rule-files
+```
+sudo gedit /etc/suricata/suricata.yaml
+```
+
