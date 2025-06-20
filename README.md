@@ -48,9 +48,13 @@ sudo systemctl status suricata
 ![Image](https://github.com/user-attachments/assets/f1733e94-c8ee-4891-ad6c-1ba178dafdf2)
 
 # Requirements
+
 🖥️ Operating System : Linux
+
 🧠 Memory : Minimum 1 GB RAM
+
 💾 Storage : Minimum 100 MB disk space
+
 📦 Dependencies : sudo,suricata,gedit
 
 # Attack
