@@ -61,4 +61,9 @@ nmap <ip>
 
 # Logs
 
+Fast logs
+```
+sudo cat /var/log/suricata/fast.log
+```
+
 
