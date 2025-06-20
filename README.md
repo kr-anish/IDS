@@ -65,5 +65,12 @@ Fast logs
 ```
 sudo cat /var/log/suricata/fast.log
 ```
+![Image](https://github.com/user-attachments/assets/d7fcc431-971d-4681-b7d8-aca42c89e47a)
+
+JSON logs
+```
+sudo tail -f /var/log/suricata/eve.json | jq 'select(.event_type=="alert")'
+```
+
 
 
